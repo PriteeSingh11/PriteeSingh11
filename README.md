@@ -1,5 +1,4 @@
-## Hi there 👋  
-I'm **Pritee Singh** 👩‍💻
+  I'm **Pritee Singh** 👩‍💻
 
 ### 👩‍💼 About Me
 Software Engineer with experience in **Python & FastAPI**, worked on **banking domain applications** including Geo-Tag based attendance systems.  
