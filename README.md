@@ -1,5 +1,5 @@
  I'm Pritee Singh
- **Python Backend Developer | FastAPI | REST APIs | MongoDB | Java | DBMS**
+ **Python Backend Developer | FastAPI | PYTHON | REST APIs | MongoDB | MYSQL | Java | HTML | CSS | DBMS**
 ---
 
 ## 👩‍💻 About Me
