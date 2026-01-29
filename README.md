@@ -1,5 +1,5 @@
- Hi, I'm Pritee Singh
-🚀 **Python Backend Developer | FastAPI | REST APIs | MongoDB | Java | DBMS**
+ I'm Pritee Singh
+ **Python Backend Developer | FastAPI | REST APIs | MongoDB | Java | DBMS**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PriteeSingh11&color=blue)
 
