@@ -1,8 +1,5 @@
  I'm Pritee Singh
  **Python Backend Developer | FastAPI | REST APIs | MongoDB | Java | DBMS**
-
-![Profile Views](https://komarev.com/ghpvc/?username=PriteeSingh11&color=blue)
-
 ---
 
 ## 👩‍💻 About Me
@@ -17,11 +14,10 @@ I love building **secure, scalable backend APIs** and **database-driven enterpri
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,mongodb,mysql,html,css,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,mongodb,mysql,html,css,git,github," />
 </p>
 
 ---
-
 ## 💼 Experience
 
 ### 🔹 Python Backend Developer  
@@ -37,22 +33,6 @@ I love building **secure, scalable backend APIs** and **database-driven enterpri
 
 ---
 
-## 🧑‍💻 Training & Projects
-
-### 🔹 Full Stack Development  
-**Codesquadz IT Training** *(Sep 2024 – Apr 2025)*  
-
-📌 **CBSE Board Website**  
-- Student data management using **Oracle Database**
-- Implemented CRUD operations using **JDBC**
-- Tech Stack: Java, Servlet, JSP, Oracle DB, HTML, CSS  
-
-📌 **User Registration System**  
-- Secure collection and storage of user data
-- Tech Stack: JDBC, Servlet, Apache Tomcat
-
----
-
 ## 🎓 Education
 - **B.Tech – Computer Science & Engineering**  
   MG Institute of Management & Technology, Lucknow  
@@ -62,29 +42,12 @@ I love building **secure, scalable backend APIs** and **database-driven enterpri
   Government Girls Polytechnic, Gorakhpur  
   CGPA: **8.84**
 
----
-
-## 📜 Certifications
-- ✅ Java Programming Certificate  
-- ✅ Python Programming Certificate  
-
----
-
 ## 🚀 Featured Projects
 - 🔐 **HRMS Backend API** – FastAPI, MongoDB, JWT Authentication  
-- 🏦 **Geo-Tag Attendance System** – Banking domain application  
-- 🧾 **CBSE Board Website** – Java, JSP & JDBC based system  
-
----
-
-## 📊 GitHub Stats (Working Badges)
-![GitHub Followers](https://img.shields.io/github/followers/PriteeSingh11?style=social)
-![Top Languages](https://img.shields.io/github/languages/top/PriteeSingh11?theme=tokyonight)
+- 🏦 **Geo-Tag Attendance System** – Banking domain application   
 
 ---
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pritee-singh-873889218)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:priteesingh1132@gmail.com)
-
 ---
