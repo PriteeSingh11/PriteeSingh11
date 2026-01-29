@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pritee Singh
-🚀 **Python Backend Developer | FastAPI | REST APIs | FAST APIs  | MongoDB | MYSQL | DBMS**
+🚀 **Python Backend Developer | FastAPI | REST APIs | MongoDB | Java | DBMS**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PriteeSingh11&color=blue)
 
@@ -72,15 +72,14 @@ I love building **secure, scalable backend APIs** and **database-driven enterpri
 
 ## 🚀 Featured Projects
 - 🔐 **HRMS Backend API** – FastAPI, MongoDB, JWT Authentication  
-- 🏦 **Geo-Tag Attendance System** – Banking domain application    
+- 🏦 **Geo-Tag Attendance System** – Banking domain application  
+- 🧾 **CBSE Board Website** – Java, JSP & JDBC based system  
+
 ---
 
-## 📊 GitHub Stats
-
-
+## 📊 GitHub Stats (Working Badges)
 ![GitHub Followers](https://img.shields.io/github/followers/PriteeSingh11?style=social)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriteeSingh11&layout=compact&theme=tokyonight)
-
+![Top Languages](https://img.shields.io/github/languages/top/PriteeSingh11?theme=tokyonight)
 
 ---
 
