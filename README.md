@@ -22,7 +22,7 @@ I love building **secure, scalable backend APIs** and **database-driven enterpri
 ## 💼 Experience
 
 ### 🔹 Python Backend Developer  
-**DJT Corporation and Investment Pvt. Ltd.** *(Sep 2025 – Present)*  
+**DJT Corporation and Investment Pvt. Ltd.** *(Sep 2025 – March 2026)*  
 
 - Developed secure backend APIs using **Python & FastAPI**
 - Designed and integrated **RESTful APIs** for HRMS modules
